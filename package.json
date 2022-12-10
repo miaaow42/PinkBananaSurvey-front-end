@@ -39,7 +39,8 @@
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^6.1.0",
     "pdf-puppeteer": "^1.1.10",
-    "pdfkit": "^0.13.0"
+    "pdfkit": "^0.13.0",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "@types/body-parser": "^1.19.2",
